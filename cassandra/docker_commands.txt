@@ -1,0 +1,21 @@
+docker --version
+
+docker pull <image>: Images can be found at docker hub
+
+docker images: list images pulled
+
+docker run -d --name cassandra-node -p 9042:9042 cassandra: creates a container
+
+docker ps: list containers running
+
+docker container list --all: list all containers
+
+docker start <container-name> : starts a container
+docker stop <container-name>: stops a container
+
+docker exec -it cassandra-node bash: logs into the container
+
+cqlsh: runs cassandra cli environment
+
+desc keyspaces;
+desc tables;
