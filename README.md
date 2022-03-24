@@ -6,7 +6,7 @@ In order to store information, Apache Cassandra was chosen as the database. The 
 
 This software was written to show how to user Apache Cassandra as a database and how to connect with a software written in Python.
 
-You can watch the software demo here: [Software Demo Video](http://youtube.link.goes.here)
+You can watch the software demo here: [Software Demo Video](https://youtu.be/znd6X1HB4Hc)
 
 # Distributed Database
 
